@@ -1,6 +1,6 @@
 ### Welcome to my profile 😍 
 
-🧑‍💻 I am a full stack developer and I am very eager to learn new things related to technologies.
+🧑‍💻 I am a full stack developer and I am very eager to learn new things related to technologies.<br>
 💪🏻 I am currently developing web app using Laravel for the back-end and React for the front-end development.
 
 <!--
