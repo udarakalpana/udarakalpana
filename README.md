@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a full stack developer 🧑‍💻 and I am very eager to learn new things related to technologies
+
 <!--
 **udarakalpana/udarakalpana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
