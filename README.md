@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a full stack developer 🧑‍💻 and I am very eager to learn new things related to technologies
+🧑‍💻 I am a full stack developer and I am very eager to learn new things related to technologies.
+💪🏻 I am currently developing web app using Laravel for the back-end and React for the front-end development.
 
 <!--
 **udarakalpana/udarakalpana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
