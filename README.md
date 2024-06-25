@@ -17,7 +17,7 @@ Front-End:
 🔧 I follow best practices like:
 
 🧪 Test-Driven Development (TDD) for ensuring high code quality and reliability. <br><br>
-📚 Domain-Driven Development (DDD) for creating well-structured and maintainable software architectures.
+📚 Domain-Driven Development (DDD) for creating well-structured and maintainable software architectures. <br><br>
 🔭 I'm passionate about exploring new technologies, improving code quality, and building efficient, user-friendly applications.
 
 📫 Let's connect and create something amazing together! Feel free to reach out or check out my repositories below.
