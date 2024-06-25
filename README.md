@@ -20,4 +20,6 @@ Front-End:
 📚 Domain-Driven Development (DDD) for creating well-structured and maintainable software architectures. <br><br>
 🔭 I'm passionate about exploring new technologies, improving code quality, and building efficient, user-friendly applications.
 
-📫 Let's connect and create something amazing together! Feel free to reach out or check out my repositories below.
+📫 Let's connect and create something amazing together!<br>
+Email: kalpanaudara058@gmail.com<br>
+LinkedIn: https://www.linkedin.com/in/kalpana-udara-239372250/
