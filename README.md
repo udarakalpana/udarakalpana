@@ -1,29 +1,81 @@
-🌟 Full-Stack Developer with 7+ Years of Experience 🌟
-👋 Hi there! I'm a seasoned full-stack developer specializing in creating robust and scalable applications. My primary tech stack includes:
+<h1 align="center">🚀 Kalpana Udara</h1>
+<h3 align="center">Full-Stack Engineer | 7+ Years Experience</h3>
 
-<b>Front-End:</b>
+<p align="center">
+  Building scalable systems. Writing clean code. Shipping real impact.
+</p>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+---
 
-<b>Back-End:</b>
+## 👨‍💻 About Me
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<br /> <br />
-💼 With over 7 years of hands-on experience, I've contributed to various projects, from small startups to large enterprises, delivering high-quality software solutions.
+I’m a seasoned **Full-Stack Developer** with over **8 years of experience** crafting high-performance, scalable applications across startups and enterprise environments.
 
-🔧 I follow best practices like:
+I don’t just write code — I design systems that last.
 
-🧪 Test-Driven Development (TDD) for ensuring high code quality and reliability. <br><br>
-📚 Domain-Driven Development (DDD) for creating well-structured and maintainable software architectures. <br><br>
-🔭 I'm passionate about exploring new technologies, improving code quality, and building efficient, user-friendly applications.
+- 🔥 Strong focus on **Clean Architecture & SOLID principles**
+- 🧠 Deep interest in **software design patterns & system design**
+- ⚡ Passionate about building **efficient, user-centric applications**
+- 📈 Always learning, always improving
 
-📫 Let's connect and create something amazing together!<br>
-Email: kalpanaudara058@gmail.com<br>
-LinkedIn: https://www.linkedin.com/in/kalpana-udara-239372250/
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+- JavaScript (ES6+)
+- TypeScript
+- React
+- React Native
+- Expo (React Native Framework)
+- Alpine.js
+- Tailwind CSS
+
+### ⚙️ Backend
+- PHP
+- Laravel
+- MySQL
+
+---
+
+## ☁️ DevOps & Cloud
+
+- AWS (EC2, S3, RDS, etc.)
+- Docker
+- Kubernetes
+- Jenkins (CI/CD)
+- Terraform (Infrastructure as Code)
+
+---
+
+## 🧪 Engineering Practices
+
+I take engineering seriously — not just coding.
+
+- 🧪 **Test-Driven Development (TDD)**
+- 🏗️ **Domain-Driven Design (DDD)**
+- 🔁 CI/CD pipelines & automation
+- 📦 Scalable & maintainable architecture design
+
+---
+
+## 🚀 What I Bring to the Table
+
+- ✔️ Production-ready, scalable systems  
+- ✔️ Clean, readable, and maintainable code  
+- ✔️ Strong debugging & problem-solving mindset  
+- ✔️ Real-world experience across multiple domains  
+
+---
+
+## 📫 Let’s Connect
+
+- 📧 Email: **kalpanaudara058@gmail.com**
+- 💼 LinkedIn:  
+  https://www.linkedin.com/in/kalpana-udara-239372250/
+
+---
+
+<p align="center">
+  💡 "Good code works. Great code lasts."
+</p>
