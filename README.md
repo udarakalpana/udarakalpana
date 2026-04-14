@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Kalpana Udara</h1>
+<h1 align="center">🚀 Kalpana De Silva</h1>
 <h3 align="center">Full-Stack Engineer | 8 Years Experience</h3>
 
 <p align="center">
